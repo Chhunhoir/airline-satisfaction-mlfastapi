@@ -1,0 +1,10 @@
+artifact_location: file:///Users/chhunhoir/Desktop/project%20pandas/Machine_Learning/mlruns/297306959414860423/models/m-cef412acb2954a369aea1f3f610353b6/artifacts
+creation_timestamp: 1757734614979
+experiment_id: '297306959414860423'
+last_updated_timestamp: 1757734618744
+model_id: m-cef412acb2954a369aea1f3f610353b6
+model_type: null
+name: LogisticRegression
+source_run_id: 8b690ba77219486cafb9cc321ad42d91
+status: 2
+status_message: null

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chhunhoir/Desktop/project%20pandas/Machine_Learning/mlruns/297306959414860423/653051fdf09b49dcae93c92294c74e20/artifacts
+deleted_time: 1757836189358
+end_time: 1757733729002
+entry_point_name: ''
+experiment_id: '297306959414860423'
+lifecycle_stage: deleted
+run_id: 653051fdf09b49dcae93c92294c74e20
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757733728998
+status: 4
+tags: []
+user_id: chhunhoir

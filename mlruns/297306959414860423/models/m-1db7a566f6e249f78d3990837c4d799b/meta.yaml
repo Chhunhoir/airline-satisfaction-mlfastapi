@@ -1,0 +1,10 @@
+artifact_location: file:///Users/chhunhoir/Desktop/project%20pandas/Machine_Learning/mlruns/297306959414860423/models/m-1db7a566f6e249f78d3990837c4d799b/artifacts
+creation_timestamp: 1757734618780
+experiment_id: '297306959414860423'
+last_updated_timestamp: 1757734620432
+model_id: m-1db7a566f6e249f78d3990837c4d799b
+model_type: null
+name: DecisionTree
+source_run_id: 30241cf1bffb461980a2950bf4f2b25b
+status: 2
+status_message: null

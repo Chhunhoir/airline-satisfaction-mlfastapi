@@ -1,0 +1,11 @@
+[('preprocessor', ColumnTransformer(transformers=[('num',
+                                 Pipeline(steps=[('imputer', SimpleImputer()),
+                                                 ('scaler', StandardScaler())]),
+                                 ['age']),
+                                ('cat',
+                                 Pipeline(steps=[('imputer',
+                                                  SimpleImputer(strategy='most_frequent')),
+                                                 ('onehot',
+                                                  OneHotEncoder(handle_unknown='ignore'))]),
+                                 ['gender', 'device_type', 'ad_position',
+                                  'browsing_history', 'time_of_day'])])), ('model', DecisionTreeClassifier())]

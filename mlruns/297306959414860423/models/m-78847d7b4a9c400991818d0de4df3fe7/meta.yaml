@@ -1,0 +1,10 @@
+artifact_location: file:///Users/chhunhoir/Desktop/project%20pandas/Machine_Learning/mlruns/297306959414860423/models/m-78847d7b4a9c400991818d0de4df3fe7/artifacts
+creation_timestamp: 1757734620504
+experiment_id: '297306959414860423'
+last_updated_timestamp: 1757734622124
+model_id: m-78847d7b4a9c400991818d0de4df3fe7
+model_type: null
+name: RandomForest
+source_run_id: 53f10efe97b94445a927d46bfa0ba6e1
+status: 2
+status_message: null

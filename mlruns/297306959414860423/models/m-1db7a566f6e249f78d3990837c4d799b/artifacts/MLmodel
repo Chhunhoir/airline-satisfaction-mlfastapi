@@ -1,0 +1,22 @@
+artifact_path: file:///Users/chhunhoir/Desktop/project%20pandas/Machine_Learning/mlruns/297306959414860423/models/m-1db7a566f6e249f78d3990837c4d799b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 3.3.1
+model_id: m-1db7a566f6e249f78d3990837c4d799b
+model_size_bytes: 207462
+model_uuid: m-1db7a566f6e249f78d3990837c4d799b
+prompts: null
+run_id: 30241cf1bffb461980a2950bf4f2b25b
+utc_time_created: '2025-09-13 03:36:58.798495'

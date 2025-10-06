@@ -1,0 +1,10 @@
+artifact_location: file:///Users/chhunhoir/Desktop/project%20pandas/Machine_Learning/mlruns/297306959414860423/models/m-9482e3f8c139463280d55bdaab2daada/artifacts
+creation_timestamp: 1757734622396
+experiment_id: '297306959414860423'
+last_updated_timestamp: 1757734623929
+model_id: m-9482e3f8c139463280d55bdaab2daada
+model_type: null
+name: SVM
+source_run_id: 069a3f9e42204ee3818c209871ef8513
+status: 2
+status_message: null
