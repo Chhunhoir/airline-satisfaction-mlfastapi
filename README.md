@@ -23,12 +23,16 @@ A machine learning project using MLflow and FastAPI for airline satisfaction pre
 ## 📁 Project Structure
 
 airline-satisfaction-mlfastapi/
-│
-├── app.py # FastAPI application
-├── airline.ipynb # Notebook for training models & MLflow tracking
-├── RF_airline.joblib # Saved Random Forest model
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+
+── app.py # FastAPI application
+
+── airline.ipynb # Notebook for training models & MLflow tracking
+
+── RF_airline.joblib # Saved Random Forest model
+
+── requirements.txt # Python dependencies
+
+── README.md # Project documentation
 
 
 ---
